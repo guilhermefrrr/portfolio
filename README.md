@@ -10,5 +10,4 @@ Sports journalist trying understand football through data
 
 ## My projects:
 
-* **Evaluating players through their valuable passes:** https://bit.ly/3jExT9N
----
+* **Evaluating players through their valuable passes:** https://bit.ly/3zFJevT
