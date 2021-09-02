@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 # Guilherme Ferreira
 <sub>*Journalist*</sub>
 
