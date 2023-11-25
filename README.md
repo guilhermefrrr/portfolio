@@ -1,7 +1,7 @@
 # Guilherme Ferreira
 <sub>*Brazilian*</sub>
 
-Trying understand sports through data
+Trying understand the world (especially sports) through data
 
 **Background in:** Python | Power BI
 
