@@ -1,7 +1,7 @@
 # Guilherme Ferreira
 <sub>*Journalist*</sub>
 
-Sports journalist trying understand football through data
+Trying understand sports through data
 
 **Background in:** Python
 
